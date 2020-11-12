@@ -1,0 +1,33 @@
+{
+  "data": {
+    "selectedNumber": "784 764 3355",
+    "accounts": [
+      { "key": 12345678, "value": 12345678 },
+      { "key": 12345678, "value": 12345678 }
+    ],
+    "ctn": [
+      { "key": 1234567890, "value": 1234567890 },
+      { "key": 9876543210, "value": 9876543210 }
+    ],
+    "securityQuestion": {
+      "question": "Which City were you born in?",
+      "answer": "Miami"
+    },
+    "securityPin": "111111",
+    "charge": 10.99
+  },
+  "steps": [
+    {
+      "title": "Account Details",
+      "icon": "MobileOutlined"
+    },
+    {
+      "title": "Make Payment",
+      "icon": "DollarOutlined"
+    },
+    {
+      "title": "Confirmation",
+      "icon": "CheckSquareOutlined"
+    }
+  ]
+}
